@@ -1,3 +1,6 @@
+body {
+    background: #e9c9a5;
+}
 header {
     width: 100%;
     height: 80px;
@@ -13,7 +16,7 @@ header {
     top: -70;
  }
 
-h1 {
+.title {
     
     font-style: italic;
     font-family: 'Times New Roman';
@@ -30,27 +33,58 @@ p {
     position: relative;
     top: 10;
  }   
- 
-center {
-    text-align: -wbkeit-center;
-}
+
 .inicio {
     display: inline-block;
       margin-right: 20px;
+      font-family: monospace;
+      font-size: 150%;
+      text-decoration: none;
+      color: white;
+      cursor: pointer;
 }
 .resenha {
     display: inline-block;
     margin-right: 20px;
+    font-family: monospace;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
 }
 .informação {
     display: inline-block;
     margin-right: 20px;
+    font-family: monospace;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
 }
 .recomendação {
     display: inline-block;
     margin-right: 20px;
+    font-family: monospace;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
 } 
-.sobre {
+
+#botão {
+   background-color: #1a181f;
+   color: aqua;
+   padding: 1%;
+   display: inline-block;
+   font-size: larger;
+   cursor: pointer;
+   text-decoration: none;
+   font-family: Verdana, Tahoma, sans-serif;
+}
+p {
     display: inline-block;
-      margin-right: 20px;
+}
+#olá {
+    font-size: 300%;
+    font-family: 'Times New Roman'
 }
