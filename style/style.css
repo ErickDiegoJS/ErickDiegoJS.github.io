@@ -5,12 +5,12 @@ header {
     background: #1a181f;
     
     position:relative;
-  top: 20;
+  top: 0;
   left: 0;
 }
  a {
     position: relative;
-    top: 50;
+    top: -70;
  }
 
 h1 {
@@ -26,4 +26,7 @@ p {
     font-size: 17px;
     font-family:'arial';
 }
-    
+ .logo {
+    position: relative;
+    top: 10;
+ }   
