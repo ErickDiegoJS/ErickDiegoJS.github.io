@@ -30,3 +30,27 @@ p {
     position: relative;
     top: 10;
  }   
+ 
+center {
+    text-align: -wbkeit-center;
+}
+.inicio {
+    display: inline-block;
+      margin-right: 20px;
+}
+.resenha {
+    display: inline-block;
+    margin-right: 20px;
+}
+.informação {
+    display: inline-block;
+    margin-right: 20px;
+}
+.recomendação {
+    display: inline-block;
+    margin-right: 20px;
+} 
+.sobre {
+    display: inline-block;
+      margin-right: 20px;
+}
