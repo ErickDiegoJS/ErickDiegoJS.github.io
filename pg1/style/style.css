@@ -11,7 +11,7 @@ header {
   top: 0;
   left: 0;
 }
- a {
+a {
     position: relative;
     top: -70;
  }
@@ -31,6 +31,10 @@ header {
  .logo {
     position: relative;
     top: 10;
+    
+ }
+ .logo:hover{
+    filter: brightness(0.8);
  }   
 
 .inicio {
@@ -42,6 +46,9 @@ header {
       color: white;
       cursor: pointer;
 }
+.inicio:hover{
+    filter:brightness(0.8)
+}
 .resenha {
     display: inline-block;
     margin-right: 20px;
@@ -50,6 +57,9 @@ header {
     text-decoration: none;
     color: white;
     cursor: pointer;
+}
+.resenha:hover{
+    filter:brightness(0.8)
 }
 .informação {
     display: inline-block;
@@ -60,6 +70,9 @@ header {
     color: white;
     cursor: pointer;
 }
+.informação:hover{
+    filter:brightness(0.8)
+}
 .recomendação {
     display: inline-block;
     margin-right: 20px;
@@ -69,6 +82,9 @@ header {
     color: white;
     cursor: pointer;
 } 
+.recomendação:hover{
+    filter:brightness(0.8)
+}
 
 p {
     display: inline-block;
@@ -97,4 +113,41 @@ footer {
 #rodape {
     background-color: #1a181f;
 
+}
+#megumin {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin-left: 30px;
+    position: relative;
+    top: -20px;
+}
+#pl{
+    margin-left: 10px;
+    display: inline-block;
+    font-style: italic;
+    font-size: 30px;
+}
+.up{
+    display: inline-block;
+    margin-left: 100px;
+}
+#block{
+    display: block;
+}
+.shinpei{
+    width: 200px;
+    position: relative;
+    top:60px;
+    margin: 40px;
+}
+.tell {
+    padding: 20px ;
+   margin: 40px;
+}
+.shinpei:hover {
+    filter: brightness(0.8)
+}
+.shinpei:hover{
+    transform: scale(1.1);
 }
