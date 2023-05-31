@@ -1,0 +1,91 @@
+
+.logo {
+    display: inline;
+
+ }
+ .logo:hover{
+    filter: brightness(0.8);
+ }
+ header{
+    background:  #1a181f;
+ }
+ body{
+    background-color: #383838;
+ }
+ main{
+    background-color: #1a181f;
+    margin: 40px;
+ }
+ .inicio {
+    display: inline-block;
+      margin-right: 20px;
+      font-family: monospace;
+      font-size: 150%;
+      text-decoration: none;
+      color: white;
+      cursor: pointer;
+}
+.inicio:hover{
+    filter:brightness(0.8)
+}
+.resenha {
+    display: inline-block;
+    margin-right: 20px;
+    font-family: monospace;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+.resenha:hover{
+    filter:brightness(0.8)
+}
+.informação {
+    display: inline-block;
+    margin-right: 20px;
+    font-family: monospace;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+.informação:hover{
+    filter:brightness(0.8)
+}
+.recomendação {
+    display: inline-block;
+    margin-right: 20px;
+    font-family: monospace;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+} 
+.recomendação:hover{
+    filter:brightness(0.8)
+}
+.title{
+    font-style: italic;
+    font-family: 'Times New Roman';
+    font-size: 80px;
+    width: 100%;
+    height: 80px;
+    position: relative;
+    top: 30;
+    color: #a5a5a5;
+}
+.img1{
+    width: 1000px;
+}
+.pp{
+    font-size: 300%;
+    font-family: 'Times New Roman';
+}
+p {
+    font-size: 30px ;
+    display: inline-block;
+    font-style: italic;
+    font-family: 'Times New Roman';
+    color: #dbdbdb;
+    margin-left: 20px ;
+}

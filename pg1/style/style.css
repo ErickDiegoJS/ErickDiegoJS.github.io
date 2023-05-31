@@ -129,25 +129,48 @@ footer {
     font-size: 30px;
 }
 .up{
-    display: inline-block;
+    display: block;
     margin-left: 100px;
 }
-#block{
-    display: block;
-}
 .shinpei{
-    width: 200px;
+    width: 250px;
     position: relative;
-    top:60px;
+    top:100px;
     margin: 40px;
 }
-.tell {
-    padding: 20px ;
-   margin: 40px;
-}
 .shinpei:hover {
-    filter: brightness(0.8)
+    transform: scale(1.1);
+    filter: brightness(0.8);
 }
-.shinpei:hover{
+.shingeki{
+    width: 220px;
+    position: relative;
+    top: 61px;
+}
+.shingeki:hover{
+    filter: brightness(0.8);
+    transform: scale(1.1);  
+}
+
+.alpha{
+    display: inline-block;
+    width: 230px;
+    margin-left: 40px;
+    position: relative;
+    top: 62px
+}
+.alpha:hover{
+    filter: brightness(0.8);
+    transform: scale(1.1);
+}
+.konosuba{
+    display: inline-block;
+    width: 246px;
+    margin-left: 40px;
+    position: relative;
+   top:64px;
+}
+.konosuba:hover{
+    filter: brightness(0.8);
     transform: scale(1.1);
 }
