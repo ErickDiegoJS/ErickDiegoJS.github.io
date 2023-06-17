@@ -1,0 +1,9 @@
+.logo:hover{
+    filter: brightness(0.8);
+}
+head{
+    background-color: brown;
+}
+body{
+    background-color: rgb(146, 72, 72);
+}
