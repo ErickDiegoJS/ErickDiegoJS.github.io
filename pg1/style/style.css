@@ -1,3 +1,11 @@
+main{
+    margin: 40px;
+    background-color: antiquewhite;
+    height: 2300px;
+}
+
+/*-------------------- header  */
+
 body {
     background: #e9c9a5;
 }
@@ -8,11 +16,6 @@ header {
     background: #1a181f;
     
 }
-a {
-    position: relative;
-    top: -70;
- }
-
 .title {
     
     font-style: italic;
@@ -24,6 +27,12 @@ a {
     top: 30;
    
 }
+a {
+    position: relative;
+    top: -70;
+ }
+
+
 
  .logo {
     position: relative;
@@ -83,6 +92,9 @@ a {
     filter:brightness(0.8)
 }
 
+/*---------------------- main  */
+/* -------------text  */
+
 p {
     display: inline-block;
     font-family: 'Lora', serif;
@@ -110,32 +122,8 @@ p {
     margin-right: 100px;
 
 }
-#img1 {
-    margin-right: 40px;
-  height: 200px ;
-  position: 'relative';
- float: right;
- display: inline-block;
-}
-main{
-    margin: 40px;
-    background-color: antiquewhite;
-}
-footer {
 
-}
-#rodape {
-    background-color: #1a181f;
-
-}
-#megumin {
-    display: block;
-    width: 500px;
-    height: auto;
-    margin-left: 30px;
-    position: relative;
-    top: -20px;
-}
+/* --------------links */
 
 .shinpei{
     width: 250px;
@@ -219,6 +207,42 @@ margin-left: 40px;
    position: relative;
    top:70px;
 }
+
+/* -----------------------footer  */
+
 .footer{
-    color: rgb(73, 73, 73);
+    color: #1a181f;
+}
+.footer:hover{
+    color: rgb(80, 80, 80);
+    display: block;
+}
+#img1 {
+    
+ height:110%;
+  position: 'relative';
+ float: right;
+ display: inline;
+}
+.jmn{
+     
+    margin: none;
+    position: relative;
+    top:-10px;
+}
+
+footer {
+    background-color: #1a181f;
+    height: 100px;
+
+}
+.final{
+    margin-left: 20px;
+    position: relative;
+    top: 25px;
+    
+}
+#footer{
+    display: inline;
+    font-size: 20px;
 }

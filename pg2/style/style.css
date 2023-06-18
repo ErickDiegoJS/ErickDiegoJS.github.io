@@ -1,3 +1,12 @@
+main{
+    background-color: #1a181f;
+    margin: 40px;
+ }
+ body{
+    background-color: #383838;
+ }
+ 
+ /* header ---------------- */
 
 .logo {
     display: inline;
@@ -9,13 +18,8 @@
  header{
     background:  #1a181f;
  }
- body{
-    background-color: #383838;
- }
- main{
-    background-color: #1a181f;
-    margin: 40px;
- }
+ 
+ 
  .inicio {
     display: inline-block;
       margin-right: 20px;
@@ -64,6 +68,8 @@
 .recomendação:hover{
     filter:brightness(0.8)
 }
+
+/* main ---------------- */
 .title{
     font-style: italic;
     font-family: 'Times New Roman';
@@ -74,12 +80,9 @@
     top: 30;
     color: #a5a5a5;
 }
+
 .img1{
     width: 1000px;
-}
-.pp{
-    font-size: 300%;
-    font-family: 'Times New Roman';
 }
 p {
     font-size: 30px ;
@@ -88,8 +91,13 @@ p {
     font-family: 'Times New Roman';
     color: #dbdbdb;
     margin-left: 20px ;
+    margin-right: 10px;
 }
-.caixa1{
+.box1{
     margin:30px;
     display: inline;
+}
+.t2{
+    font-size: 80px;
+    color: aliceblue;
 }
