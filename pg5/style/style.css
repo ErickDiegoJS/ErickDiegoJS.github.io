@@ -1,0 +1,112 @@
+.logo{
+    height:180px;
+}
+.logo:hover{
+    filter: brightness(0.9);
+    transform: scale(1.02);
+}
+header{
+    background-color:rgb(49, 74, 95);
+    height: 200px;
+}
+body{
+    background-color: rgb(62, 121, 145);
+}
+main{
+    background-color: rgb(49, 74, 95);
+    margin:40px;
+}
+.img1{
+    width: 1000px;
+}
+.inicio {
+    display: inline-block;
+      margin-right: 20px;
+      font-family: monospace;
+      font-size: 150%;
+      text-decoration: none;
+      color: white;
+      cursor: pointer;
+}
+.inicio:hover{
+    filter:brightness(0.8)
+}
+.resenha {
+    display: inline-block;
+    margin-right: 20px;
+    font-family: monospace;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+.resenha:hover{
+    filter:brightness(0.8)
+}
+.informação {
+    display: inline-block;
+    margin-right: 20px;
+    font-family: monospace;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+.informação:hover{
+    filter:brightness(0.8)
+}
+.recomendação {
+    display: inline-block;
+    margin-right: 20px;
+    font-family: monospace;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+} 
+.recomendação:hover{
+    filter:brightness(0.8)
+}
+.title{
+    font-style: italic;
+    font-family: 'Times New Roman';
+    font-size: 70px;
+    width: 100%;
+    height: 80px;
+    position: relative;
+    top: 10;
+    color: #fafafa;
+}
+p {
+    font-size: 30px ;
+    display: inline-block;
+    font-style: italic;
+    font-family: 'Times New Roman';
+    color: #fafafa;
+    margin-left: 20px ;
+    margin-right: 10px;
+}
+.sinopse{
+    background-color: #333333;
+    margin: 20px;
+}
+.t2{
+    font-size: 80px;
+    color: aliceblue;
+}
+.lista{
+    margin-left: 20px;
+    display: block;
+    font-family: arial;
+}
+.lista1{
+    background-color: #333333;
+    display: inline-block;
+    margin-left: 20px;
+}
+.walk{
+    margin-left: 50px;
+    width: 700px;
+    position: relative;
+    top:20px;
+}

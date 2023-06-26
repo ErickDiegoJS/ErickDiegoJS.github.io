@@ -115,12 +115,42 @@ p {
     height: 100%;
     
 }
-.shizuru{
-    width: 75%;
-    height: 75%;
-}
 .title1{
     font-size: 40px;
     margin: 20px;
+    color:#eeeeee
+}
+.death{
+    width: 800px;
+}
+.hizuru{
+    width: 800px;
+}
+/* footer ---------------- */
+footer {
+    background-color: #1a181f;
+    height: 150px;
+
+}
+.footer{
+    color: #1a181f;
+}
+.footer:hover{
+    filter: brightness(2.0);
+}
+.ass{
+    font-size: 20px;
+}
+.jmn{
+     
+    margin: none;
+    position: relative;
+    top:-19px;
+}
+#img1 {
     
+    height:110%;
+     position: 'relative';
+    float: right;
+    display: inline;
 }
