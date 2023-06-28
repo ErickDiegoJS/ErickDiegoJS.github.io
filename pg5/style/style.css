@@ -135,3 +135,40 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     color: #fafafa;
 }
+.aqua{
+    width: 800px;
+}
+.s3{
+    width: 1000px;
+}
+.p{
+    font-size: 20px;
+    text-decoration:underline;
+}
+footer {
+    background-color:rgb(49, 74, 95);
+    height: 150px;
+
+}
+.footer{
+    color:rgb(49, 74, 95);
+}
+.footer:hover{
+    filter: brightness(2.0);
+}
+.ass{
+    font-size: 20px;
+}
+.jmn{
+     
+    margin: none;
+    position: relative;
+    top:-19px;
+}
+#img1 {
+    
+    height:110%;
+     position: 'relative';
+    float: right;
+    display: inline;
+}
