@@ -104,3 +104,40 @@ audio{
 .mk{
     width: 500px;
 }
+h1{
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fafafa;
+}
+footer {
+    background-color:rgb(104, 56, 56);
+    height: 150px;
+
+}
+.footer{
+    color:rgb(104, 56, 56);
+}
+.footer:hover{
+    filter: brightness(2.0);
+}
+.ass{
+    font-size: 20px;
+}
+.jmn{
+     
+    margin: none;
+    position: relative;
+    top:-19px;
+}
+#img1 {
+    
+    height:110%;
+     position: 'relative';
+    float: right;
+    display: inline;
+}
+.p{
+    font-size: 20px;
+    text-decoration:underline;
+}
