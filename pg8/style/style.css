@@ -125,3 +125,13 @@ footer {
     font-size: 20px;
     text-decoration:underline;
 }
+h1{
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fafafa;
+}
+.lista{
+    margin: 50px;
+    display: block;
+}
