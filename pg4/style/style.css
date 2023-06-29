@@ -132,5 +132,12 @@ h1{
     color: #fafafa;
 }
 .img2{
-    width: 1400px;
+    width: 1200px;
+}
+.p1{
+    width: 700px;
+}
+.atm{
+    font-size: 20px;
+    display: block;
 }
