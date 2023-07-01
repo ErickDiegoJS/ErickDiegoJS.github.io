@@ -103,6 +103,7 @@ p {
     background-color: #333333;
     display: inline-block;
     margin-left: 20px;
+    position: relative;
 }
 .walk{
     margin-left: 50px;
@@ -171,4 +172,8 @@ footer {
      position: 'relative';
     float: right;
     display: inline;
+}
+.p4{
+    position: relative;
+    display:block;
 }
