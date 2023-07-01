@@ -164,5 +164,10 @@ footer {
 .audio{
     margin-right: 20px;
     position: relative;
-    top: -110px;
+    display: block;
+    top: 10px;
+}
+.v12{
+display: block;
+position: relative;
 }
